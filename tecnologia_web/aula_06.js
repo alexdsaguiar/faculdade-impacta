@@ -23,3 +23,6 @@ for (var i = 0; i < cursos.length; i++) {
         console.log("Reprovado!")
     }
 }
+
+var soma = 3 + "4"
+console.log(3 + "4")
